@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ranjan Koirala!
 
-<!--
-**rknexus/rknexus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Frontend Developer specializing in creating responsive and user-friendly web applications. I love working with JavaScript frameworks and have a keen eye for design. 
 
-Here are some ideas to get you started:
+## 🌟 Skills
+- JavaScript, React, Vue.js
+- HTML, CSS, Sass
+- Responsive Web Design
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+- [Portfolio](your-portfolio-link)
+- [Blog](your-blog-link)
+- [LinkedIn](your-linkedin-link)
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+## 🚀 Projects
+- [Project Name](link) - Short description of what it does.
+- [Another Project](link) - Short description of what it does.
+
+## 📫 How to reach me
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- Twitter: [@yourusername](https://twitter.com/yourusername)
